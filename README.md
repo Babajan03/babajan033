@@ -1,4 +1,6 @@
 # babajan033
+# 💫 About Me:
+l'm currently working on<br>l'm looking to collaborate on<br>I'm currently learning<br>Ask me about<br>Fun fact<br>
 
 
 ## 🌐 Socials:
@@ -10,6 +12,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=Babajan03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Babajan03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Babajan03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Babajan03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Babajan03&icon=0&color=0)](https://visitcount.itsvg.in)
